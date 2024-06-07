@@ -29,7 +29,7 @@ Para configurar e executar este projeto, siga os passos abaixo:
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/imdb-spider.git
+    git clone https://github.com/VictorHugoCC/Raspagem-de-dados-A3.git
     cd imdb250     
     ```
 
