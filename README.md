@@ -68,3 +68,22 @@ Após executar o comando, será criado um arquivo chamado imdb.json, no qual est
 
 ![Texto Alternativo](assets/ProgramaExecutado.gif)
 
+## 🤝 Colaboradores
+
+Nome e RA dos colaboradores do projeto:
+
+1 - Lucas Macedo de Oliveira 1272118785
+
+2 - Bruno castelão sá Barreto 1272117388
+
+3 - Victor Hugo Cordeiro 1272123431
+
+4 - Renan Araujo Sacramento 12718110016
+
+5 - Bruno Magalhães Cardoso 1272115565
+
+6 - Daniel Garcia Ramos 12720110011
+
+7 - Gabriel Borja Moraes - 12722216533
+
+8 -Rafael Miranda Lima 1272117553
